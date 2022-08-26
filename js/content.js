@@ -1,0 +1,1 @@
+document.addEventListener('click', () => console.log(new Date().getTime()));
